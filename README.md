@@ -17,7 +17,9 @@
 3. 아두이노가 센서값(초음파/수위/풍속/온도)을 기반으로 창문 개폐 판단
 4. 스텝모터(ULN2003 드라이버)가 기어/랙을 통해 창문을 여닫음
 
-## 📷 보드 연결 사진
+<img src="assets/images/system_architecture.jpg" alt="Smart Window system architecture diagram" width="1100" />
+
+## 📷 하드웨어 통합 구성 (Integrated Hardware Setup)
 <img src="assets/images/smart_window.jpg" alt="Smart Window board wiring top view" width="1100" />
 
 ## 🛠 기술 스택 (Tech Stack)
@@ -42,6 +44,7 @@
 /SmartWindow-IoT-System
   ├── assets/
   │   └── images/
+  │       ├── system_architecture.jpg
   │       └── smart_window.jpg
   ├── firmware/
   │   └── smart_window_controller/
