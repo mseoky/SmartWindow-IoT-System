@@ -2,7 +2,7 @@
 
 > **Note:** This project was developed as a term project for the **Adventure Design** course at Pusan National University (2nd Semester, 2023).
 
-## 📺 시현 영상 (Demo Video)
+## 📺 시연 영상 (Demo Video)
 [![Smart Window Demo](https://img.youtube.com/vi/lpE6I9GTra0/0.jpg)](https://youtu.be/lpE6I9GTra0)
 
 ## 📌 개요 (Overview)
